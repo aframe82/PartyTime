@@ -1,0 +1,14 @@
+{
+  "name": "akfarah_intercom",
+  "version": "0.0.1",
+  "description": "Intercom Tech Test",
+  "main": "partytime.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Adam Farah",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
