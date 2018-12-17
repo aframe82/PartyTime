@@ -1,6 +1,6 @@
-##Intercom Party
+## Intercom Party
 
-####Parties are afoot. Lucky customers within 100KM are invited
+#### Parties are afoot. Lucky customers within 100KM are invited
 
 Install dependencies:
 ```bash
@@ -14,7 +14,7 @@ npm test
 
 Run from the command line:
 ```bash
-npm run partytime
+npm run party
 ```
 
 Prints output as a JSON Array of customers within 100km, sorted by 
