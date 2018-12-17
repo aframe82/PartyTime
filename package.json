@@ -4,7 +4,8 @@
   "description": "Intercom Tech Test",
   "main": "partytime.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "party": "node partytime.js"
   },
   "author": "Adam Farah",
   "license": "ISC",
